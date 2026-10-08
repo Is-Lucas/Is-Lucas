@@ -1,8 +1,11 @@
 <p align="center">
-<img src="./assets/isaias-header-2026.svg" alt="Isaias Lucas — cabeçalho roxo com Lucas em destaque" width="100%" />
+  <img src="./assets/isaias-header-2026.svg?v=555ea95" alt="Isaias Lucas — cabeçalho roxo com Lucas em destaque" width="100%" />
 </p>
+
 <p align="center">
-<a href="#projetos">Projetos</a> &nbsp; · &nbsp; <a href="#o-que-estou-estudando">Estudos</a> &nbsp; · &nbsp; <a href="https://github.com/Is-Lucas?tab=repositories">Todos os repositórios</a>
+  <a href="#projetos">Projetos</a> &nbsp; · &nbsp;
+  <a href="#o-que-estou-estudando">Estudos</a> &nbsp; · &nbsp;
+  <a href="https://github.com/Is-Lucas?tab=repositories">Todos os repositórios</a>
 </p>
 
 <br />
@@ -49,11 +52,11 @@ Aqui ficam os exercícios das aulas, os projetos e os desafios que vou fazendo. 
 ## O que estou estudando
 
 <p>
-<img src="https://img.shields.io/badge/HTML-241735?style=flat-square&amp;logo=html5&amp;logoColor=C5A3F5" alt="HTML" />
-<img src="https://img.shields.io/badge/CSS-241735?style=flat-square&amp;logo=css&amp;logoColor=C5A3F5" alt="CSS" />
-<img src="https://img.shields.io/badge/JavaScript-241735?style=flat-square&amp;logo=javascript&amp;logoColor=C5A3F5" alt="JavaScript" />
-<img src="https://img.shields.io/badge/React-241735?style=flat-square&amp;logo=react&amp;logoColor=C5A3F5" alt="React" />
-<img src="https://img.shields.io/badge/SQL-241735?style=flat-square" alt="SQL" />
+  <img src="https://img.shields.io/badge/HTML-241735?style=flat-square&amp;logo=html5&amp;logoColor=C5A3F5" alt="HTML" />
+  <img src="https://img.shields.io/badge/CSS-241735?style=flat-square&amp;logo=css&amp;logoColor=C5A3F5" alt="CSS" />
+  <img src="https://img.shields.io/badge/JavaScript-241735?style=flat-square&amp;logo=javascript&amp;logoColor=C5A3F5" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-241735?style=flat-square&amp;logo=react&amp;logoColor=C5A3F5" alt="React" />
+  <img src="https://img.shields.io/badge/SQL-241735?style=flat-square" alt="SQL" />
 </p>
 
 Meu foco por aqui é praticar desenvolvimento web e banco de dados, usando os projetos do curso para testar o que aprendo.
