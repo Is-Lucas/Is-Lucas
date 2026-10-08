@@ -1,57 +1,69 @@
-Olá, eu sou Isaías Silva! 👋
+# Olá, eu sou Isaías Silva! 👋
 
-💻 Desenvolvimento de Sistemas | Suporte Técnico | Infraestrutura de TI
+### Desenvolvedor em formação | Suporte Técnico | Infraestrutura de TI
 
-Sou apaixonado por tecnologia, com experiência profissional em suporte técnico e infraestrutura de TI.
+Sou estudante de **Desenvolvimento de Sistemas no Senac**, com experiência profissional em suporte técnico e infraestrutura de TI.
 
-Atualmente, curso Técnico em Desenvolvimento de Sistemas no Senac, aprimorando meus conhecimentos em desenvolvimento web, lógica de programação e bancos de dados.
+Tenho interesse em desenvolvimento de software, resolução de problemas e novas tecnologias. Busco oportunidades para aplicar meus conhecimentos e crescer profissionalmente.
 
-Busco oportunidades para aplicar meus conhecimentos, aprender novas tecnologias e contribuir com soluções inovadoras.
+---
 
-⸻
+## 🛠️ Tecnologias e ferramentas
 
-🚀 Tecnologias e conhecimentos
+### Desenvolvimento
 
-Desenvolvimento Web
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white)
 
-Suporte e Infraestrutura
+### Suporte e infraestrutura
 
-* Suporte técnico e resolução de problemas
-* Redes de computadores
-* Cabeamento de redes e organização de racks
-* Infraestrutura de TI
-* Sistemas Windows e ferramentas de produtividade
+- Suporte técnico a usuários
+- Redes de computadores
+- Cabeamento estruturado e organização de racks
+- Infraestrutura de TI
+- Sistemas Windows e ferramentas de produtividade
 
-⸻
+---
 
-💼 Experiência profissional
+## 💼 Experiência profissional
 
-Auxiliar de TI — Crowe Macro Brazil
+**Auxiliar de TI | Crowe Macro Brazil**  
+Novembro de 2024 – Maio de 2025
 
-Novembro de 2024 a maio de 2025
+Experiência em suporte técnico e atividades relacionadas à infraestrutura de tecnologia da informação.
 
-Experiência em atividades de suporte técnico e infraestrutura de tecnologia da informação.
+---
 
-⸻
+## 🎓 Formação acadêmica
 
-🎓 Formação acadêmica
+- **Técnico em Desenvolvimento de Sistemas** — Senac | Em andamento
+- **Engenharia de Software** — Ingresso planejado para 2027, mediante transferência
 
-* Técnico em Desenvolvimento de Sistemas — Senac | Em andamento
-* Engenharia de Software — Ingresso planejado para 2027, mediante transferência
+---
 
-⸻
+## 🚀 Objetivos profissionais
 
-📊 Estatísticas do GitHub
+Busco desenvolver minhas habilidades em programação, infraestrutura e suporte técnico, participando de projetos que gerem soluções eficientes.
 
-⸻
+---
 
-📂 Meus projetos
+## 📊 Estatísticas do GitHub
 
-Confira meus repositórios no GitHub.
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Is-Lucas&show_icons=true&theme=transparent&hide_border=true&locale=pt-br)
 
-⸻
+![Linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Is-Lucas&layout=compact&theme=transparent&hide_border=true)
 
-📍 São Paulo, Brasil
+---
 
-Em constante evolução na área de tecnologia.
+## 📁 Projetos
 
+Explore meus [repositórios públicos](https://github.com/Is-Lucas?tab=repositories) para acompanhar meus projetos e minha evolução na área de tecnologia.
+
+---
+
+📍 **São Paulo, Brasil**
+
+**Em constante aprendizado e aberto a oportunidades na área de tecnologia.**
