@@ -1,26 +1,26 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360">
-<style>
-@keyframes breathe { 0%,100% { opacity:.07; } 50% { opacity:.19; } }
-@keyframes drift { 0%,100% { transform:translateX(0); } 50% { transform:translateX(12px); } }
-@keyframes sweep { 0% { transform:translateX(-180px); opacity:0; } 12%,75% { opacity:.75; } 100% { transform:translateX(740px); opacity:0; } }
-.glow { animation:breathe 6s ease-in-out infinite; }
-.arrow { animation:drift 4s ease-in-out infinite; }
-.trail { animation:sweep 8s ease-in-out infinite; }
-@media (prefers-reduced-motion:reduce) { .glow,.arrow,.trail { animation:none; } .trail { opacity:0; } }
-</style>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+<title id="title">Isaias Lucas</title>
+<desc id="desc">Nome Lucas em destaque sobre fundo roxo escuro, com detalhes inspirados em Pokémon.</desc>
 <defs>
-<radialGradient id="purple-glow"><stop stop-color="#a678ef"/><stop offset="1" stop-color="#a678ef" stop-opacity="0"/></radialGradient>
-<clipPath id="line-clip"><rect x="58" y="250" width="737" height="6"/></clipPath>
+<linearGradient id="bg" x2="1" y2="1"><stop stop-color="#160f24"/><stop offset="1" stop-color="#2a1645"/></linearGradient>
+<radialGradient id="halo"><stop stop-color="#9f63ea" stop-opacity=".2"/><stop offset="1" stop-color="#9f63ea" stop-opacity="0"/></radialGradient>
 </defs>
-<rect width="1200" height="360" rx="18" fill="#160e26"/>
-<ellipse class="glow" cx="580" cy="150" rx="340" ry="200" fill="url(#purple-glow)" opacity=".07"/>
-<path d="M865 0H1200V360H1015Z" fill="#a678ef"/>
-<path d="M1030 0L1180 360M950 0L1100 360" stroke="#160e26" stroke-width="2" opacity=".2"/>
-<text x="58" y="57" fill="#a678ef" font-family="Arial,Helvetica,sans-serif" font-size="18" letter-spacing="5">IS-LUCAS / GENGAR</text>
-<text x="58" y="99" fill="#d2bce9" font-family="Arial,Helvetica,sans-serif" font-size="27" letter-spacing="1">Isaias</text>
-<text x="50" y="222" fill="#f5efff" font-family="Arial,Helvetica,sans-serif" font-weight="800" font-size="146" letter-spacing="-8">Lucas.</text>
-<line x1="58" y1="253" x2="795" y2="253" stroke="#513969"/>
-<g clip-path="url(#line-clip)"><line class="trail" x1="58" y1="253" x2="200" y2="253" stroke="#c5a3f5" stroke-width="2" opacity="0"/></g>
-<text x="58" y="301" fill="#d2bce9" font-family="Arial,Helvetica,sans-serif" font-size="23">Suporte · Infraestrutura · Desenvolvimento</text>
-<path class="arrow" d="M1000 125L1080 180L1000 235" fill="none" stroke="#160e26" stroke-width="13" stroke-linecap="square"/>
+<rect width="1200" height="360" rx="18" fill="url(#bg)"/>
+<circle cx="1000" cy="190" r="250" fill="url(#halo)"/>
+<path d="M835 0V360" stroke="#b387e8" stroke-opacity=".18"/>
+<text x="52" y="48" fill="#b387e8" font-family="Arial,Helvetica,sans-serif" font-size="15" letter-spacing="4">IS-LUCAS / SÃO PAULO</text>
+<text x="52" y="106" fill="#cdbce2" font-family="Arial,Helvetica,sans-serif" font-size="28">Isaias</text>
+<text x="43" y="240" fill="#f6f0ff" font-family="Arial,Helvetica,sans-serif" font-weight="800" font-size="164" letter-spacing="-8">Lucas<tspan fill="#b387e8">.</tspan></text>
+<path d="M52 273H774" stroke="#b387e8" stroke-opacity=".3"/>
+<text x="52" y="316" fill="#cdbce2" font-family="Arial,Helvetica,sans-serif" font-size="21">Desenvolvimento de Sistemas · Senac</text>
+<text x="876" y="49" fill="#b387e8" font-family="Arial,Helvetica,sans-serif" font-size="15" letter-spacing="4">GHOST / 094</text>
+<g fill="none" stroke="#b387e8" stroke-width="3" opacity=".7">
+<circle cx="1015" cy="185" r="80"/>
+<path d="M935 185H991M1039 185H1095"/>
+<circle cx="1015" cy="185" r="24"/>
+<circle cx="1015" cy="185" r="11" stroke-width="2"/>
+</g>
+<circle cx="1015" cy="185" r="106" fill="none" stroke="#b387e8" stroke-opacity=".15" stroke-dasharray="4 12"/>
+<path d="M903 284H1127" stroke="#b387e8" stroke-opacity=".3"/>
+<text x="940" y="316" fill="#b387e8" font-family="Arial,Helvetica,sans-serif" font-size="15" letter-spacing="3">GENGAR</text>
 </svg>
