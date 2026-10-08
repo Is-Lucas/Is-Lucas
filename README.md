@@ -1,10 +1,13 @@
-<p align="center">
-  <img src="https://play.pokemonshowdown.com/sprites/gen5ani/gengar.gif" alt="Gengar animado" width="140" />
-</p>
-
-<p align="center">
-  <img src="./assets/isaias-header-2026.svg?v=555ea95" alt="Isaias Lucas — cabeçalho roxo com Lucas em destaque" width="100%" />
-</p>
+<table width="100%">
+<tr>
+<td width="20%" align="center" valign="middle">
+<img src="https://play.pokemonshowdown.com/sprites/gen5ani/gengar.gif" alt="Gengar animado" width="140" />
+</td>
+<td width="80%" valign="middle">
+<img src="./assets/isaias-header-2026.svg?v=555ea95" alt="Isaias Lucas — cabeçalho roxo com Lucas em destaque" width="100%" />
+</td>
+</tr>
+</table>
 
 <p align="center">
   <a href="#projetos">Projetos</a> &nbsp; · &nbsp;
