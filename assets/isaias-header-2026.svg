@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360">
+<rect width="1200" height="360" rx="18" fill="#160e26"/>
+<path d="M865 0H1200V360H1015Z" fill="#a678ef"/>
+<path d="M1030 0L1180 360M950 0L1100 360" stroke="#160e26" stroke-width="2" opacity=".2"/>
+<text x="58" y="57" fill="#a678ef" font-family="Arial,Helvetica,sans-serif" font-size="18" letter-spacing="5">IS-LUCAS / GENGAR</text>
+<text x="58" y="99" fill="#d2bce9" font-family="Arial,Helvetica,sans-serif" font-size="27" letter-spacing="1">Isaias</text>
+<text x="50" y="222" fill="#f5efff" font-family="Arial,Helvetica,sans-serif" font-weight="800" font-size="146" letter-spacing="-8">Lucas.</text>
+<line x1="58" y1="253" x2="795" y2="253" stroke="#513969"/>
+<text x="58" y="301" fill="#d2bce9" font-family="Arial,Helvetica,sans-serif" font-size="23">Suporte · Infraestrutura · Desenvolvimento</text>
+<path d="M1000 125L1080 180L1000 235" fill="none" stroke="#160e26" stroke-width="13" stroke-linecap="square"/>
+</svg>
