@@ -22,7 +22,7 @@
 Nome: Isaías Lucas
 Codinome: Is-Lucas
 Base: São Paulo, SP 📍
-Status: Cursando Técnico em Desenvolvimento de Sistemas — Senac
+Status: Cursando Técnico em Desenvolvimento de Sistemas — Senac (jun/2026 a dez/2027, conclusão prevista)
 Background: Suporte técnico e infraestrutura de TI
 
 Pode me chamar de Lucas. Já atuei com atendimento a usuários, Windows, redes e cabeamento. Hoje estou ampliando meus conhecimentos em desenvolvimento, aplicando nas atividades do curso aquilo que aprendo a cada etapa.
@@ -53,10 +53,10 @@ Além da tecnologia, curto música, games e o universo do Gengar. 👻
 <table>
   <tr>
     <td width="50%" align="center" valign="top">
-      <h3>01 / Projeto CSS</h3>
-      <p>Prática de estilização e construção de interfaces web.</p>
+      <h3>01 / Portfólio React</h3>
+      <p>Aplicação em React e Vite com minha trajetória e projetos.</p>
       <p><code>HTML</code> <code>CSS</code></p>
-      <a href="https://github.com/Is-Lucas/Projeto-Css"><img src="https://img.shields.io/badge/VER_CÓDIGO-6E35A8?style=for-the-badge&logo=github&logoColor=white" alt="Ver Projeto CSS" /></a>
+      <a href="https://github.com/Is-Lucas/isaias-portfolio"><img src="https://img.shields.io/badge/VER_CÓDIGO-6E35A8?style=for-the-badge&logo=github&logoColor=white" alt="Ver Projeto CSS" /></a>
     </td>
     <td width="50%" align="center" valign="top">
       <h3>02 / Desafios Web</h3>
@@ -73,10 +73,10 @@ Além da tecnologia, curto música, games e o universo do Gengar. 👻
       <a href="https://github.com/Is-Lucas/Banco-de-Dados"><img src="https://img.shields.io/badge/VER_CÓDIGO-6E35A8?style=for-the-badge&logo=github&logoColor=white" alt="Ver Banco de Dados" /></a>
     </td>
     <td width="50%" align="center" valign="top">
-      <h3>04 / Projeto JS — TDS02</h3>
-      <p>Atividades do curso para estudar os fundamentos do JavaScript.</p>
+      <h3>04 / CodeCraft</h3>
+      <p>Catálogo de desenvolvedores com componentes reutilizáveis em React.</p>
       <p><code>JavaScript</code></p>
-      <a href="https://github.com/Is-Lucas/Projeto-JS-TDS02"><img src="https://img.shields.io/badge/VER_CÓDIGO-6E35A8?style=for-the-badge&logo=github&logoColor=white" alt="Ver Projeto JS" /></a>
+      <a href="https://github.com/Is-Lucas/CodeCraft"><img src="https://img.shields.io/badge/VER_CÓDIGO-6E35A8?style=for-the-badge&logo=github&logoColor=white" alt="Ver Projeto JS" /></a>
     </td>
   </tr>
 </table>
