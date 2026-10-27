@@ -13,7 +13,7 @@
 <a href="https://github.com/Is-Lucas?tab=repositories"><img src="https://img.shields.io/badge/REPOSITÓRIOS-161020?style=for-the-badge&logo=githubactions&logoColor=BE8DFF" alt="Repositórios" /></a>
 
 <a href="https://isaias-portfolio.vercel.app"><img src="https://img.shields.io/badge/MEU_PORTFOLIO-9452F3?style=for-the-badge&logo=vercel&logoColor=white" alt="Visitar meu portfólio" /></a>
-<a href="https://codik-design.vercel.app"><img src="https://img.shields.io/badge/CODIK_DESIGN-1C1A1C?style=for-the-badge" alt="Conhecer a CODIK DESIGN" /></a>
+<a href="https://codik.com.br"><img src="https://img.shields.io/badge/CODIK_DESIGN-1C1A1C?style=for-the-badge" alt="Conhecer a CODIK DESIGN" /></a>
 <a href="#projetos-em-destaque"><img src="https://img.shields.io/badge/MEUS_PROJETOS-161020?style=for-the-badge&logo=codepen&logoColor=BE8DFF" alt="Projetos" /></a>
 </div>
 
@@ -46,7 +46,7 @@ Além da tecnologia, curto música, games e o universo do Gengar. 👻
 
 **[🚀 Visite meu portfólio](https://isaias-portfolio.vercel.app)** — Minha trajetória em TI e projetos de desenvolvimento web.
 
-**[✳ CODIK DESIGN](https://codik-design.vercel.app)** — Criação de sites em equipe com Rodrigo e Nicolas.
+**[✳ CODIK DESIGN](https://codik.com.br)** — Criação de sites em equipe com Rodrigo e Nicolas.
 
 
 <div align="center">
